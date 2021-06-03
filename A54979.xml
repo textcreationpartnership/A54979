@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The plain-man's answer to his country parson's admonition Together with the missioners answer, to the plain-man's reply. Permissu superiorum.</title>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54979</idno><idno type="EEBO-CITATION">99829867</idno>
+  <idno type="VID">34313</idno>
+  <idno type="EEBO-PROQUEST">2240855313</idno>
+  
+            <idno type="STC">Wing P2363</idno>
+            <idno type="STC">ESTC R218257</idno>
+            <idno type="PROQUEST">99829867</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829867e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34313)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2011:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The plain-man's answer to his country parson's admonition Together with the missioners answer, to the plain-man's reply. Permissu superiorum.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills, printer to the Kings most excellent Majesty, for his houshold and chappel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The missioner's answer to the plain-man's reply" on pg. 8.</note>
+                  <note>Reproduction of the original at the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Apologetic works --  Early works to 1800.</term>
+               <term type="corporate_name">Catholic Church --  Infallibility --  Early works to 1800.</term>
+               <term type="topical_term">Catholics --  England --  Early works to 1800.</term>
+               <term type="topical_term">Salvation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34313:1"/>
+            <p>THE Plain-man's ANSWER TO HIS <hi>Country Parson's</hi> ADMONITION.</p>
+            <p>TOGETHER With the Missioners An<g ref="char:EOLhyphen"/>swer, to the Plain-man's Reply.</p>
+            <p>Permissu Superiorum.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the Kings Most Excellent Majesty, for His Houshold and Chappel, 1686.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34313:2"/>
+            <p>INdividual Persons as well as Churches, must Judge of their Faith according to what <hi>they</hi> find in Scripture. And tho it be highly useful for them to be assisted in making of this Judg<g ref="char:EOLhyphen"/>ment by <hi>that Church</hi> of which they are members; yet, if after this Instruction, they are still evidently convinced, that there is a disagreement in any necessa<g ref="char:EOLhyphen"/>ry point of Faith, between the voice of the Church, and that of the Scripture, they <hi>must stick</hi> to the later rather than the for<g ref="char:EOLhyphen"/>mer, they must follow the Su<g ref="char:EOLhyphen"/>periour, not Inferior Guide. <hi>Defence of the Exposition of the Doctrine of the Church of</hi> England, pag. <hi>80.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:34313:2"/>
+            <head>THE PLAIN-MAN'S ANSWER TO HIS <hi>Country Parson's</hi> ADMONITION.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have perused your Admonition, as also the Reply, which you put out as mine, to the Catholic Missioners, and think my self obliged to give you my thoughts of them.</p>
+            <p>
+               <hi>Now we Country-men, you know Sir, do love a saving Bargain,</hi> (Reply pag. 2.) and as we would not <hi>buy or swap a Horse unless we see and try him;</hi> so, if we chance to be over-reach'd in a bad bargain, we are will<g ref="char:EOLhyphen"/>ing to disengage our selves, and take more caution for the future.</p>
+            <p>And as we are thus cautious in our Tem<g ref="char:EOLhyphen"/>poral concerns, so have I been taught we
+<pb n="2" facs="tcp:34313:3"/> ought to be much more in those upon which our Eternal weal or woe does depend. And therefore I must needs say, that I think my self obliged to take the securest way to save my Soul; so, that if I can assuredly find out an Infallible Guide to conduct me in my way to the Heavenly <hi>Jerusalem,</hi> I should be un<g ref="char:EOLhyphen"/>reasonable if I did not cast off all those, who pretend to nothing but what is fallible, and follow such an Infallible director. Nay you your self have promised this for me, (Plain<g ref="char:EOLhyphen"/>man's reply, pag. 22.) <hi>Tell me distinctly who this unerring Guide is, and I do again faithfully promise to resign my self to his con<g ref="char:EOLhyphen"/>duct:</hi> And you have shewn it to be very reasonable, that I should enquire after this Infallible Director; because <hi>particular points in Controversie are many,</hi> and my employ<g ref="char:EOLhyphen"/>ments will not give me leave to examin them all, but, <hi>this is to make short work on't, and prove them all at once,</hi> (pag. 7.)</p>
+            <p>Upon these accounts I found my self strongly invited, to see whether I could re<g ref="char:EOLhyphen"/>ally find such an Infallible Guide or no; and because I saw you did not pretend either your self or our Church to be such an uner<g ref="char:EOLhyphen"/>ring Director, neither did I find any other, but those called Roman Catholics, offer to challenge it, I thought my self obliged to enquire upon what Grounds they went, and what solid Arguments they had to convince my Judgment.</p>
+            <p>But now you come with an Admonition, as if you were afraid, I should seek and find. And tell me I must have <hi>a modest dependance upon the Ministerial Function</hi> (Admon. pa. 6.)
+<pb n="3" facs="tcp:34313:3"/> that is, if I understand you right, I must rely upon your word.</p>
+            <p>But Sir, I have been formerly taught <hi>not to pin my Faith upon anothers Sleeve,</hi> and I think the admonition good, unless I could be sure that such a one on whom I rely could not, nor would not deceive me; But Sir, you do not pretend to such Infallibility; and therefore, if I must rely upon the <hi>Mini<g ref="char:EOLhyphen"/>sterial Function,</hi> I ought, in case it can be found, to seek out such a one as is uner<g ref="char:EOLhyphen"/>ring.</p>
+            <p>You tell me you will propose some Expe<g ref="char:EOLhyphen"/>dients, to hinder me from being seduced. And</p>
+            <p>
+               <hi>First,</hi> You advise me <hi>to make my earnest and dayly Prayer to God to give me his Grace, to hold fast the Profession of my Faith without wavering, and that I may continue in the same unto my lives end.</hi> (Ib. pag. 6.)</p>
+            <p>But pray Sir, how can I make this Prayer, if I can have no Infallible security that this Faith which I profess, is the True. For I have learnt, that <hi>Faith is but one,</hi> (Eph. 4.5.) and that <hi>without it it is Impossible to please God.</hi> (Heb. 11.6.) And therefore I think a<g ref="char:EOLhyphen"/>mongst these varieties, and in this uncer<g ref="char:EOLhyphen"/>tainty, I ought rather to pray to God that <hi>if I be not in the right, he would bring me to it, and if I be in the right, that he would conserve me in it.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> You bid me, <hi>when I read the Holy Scriptures, and find some places that are too difficult for me, not to pretend to interpret it my self; but to beg the direction of my Spiri<g ref="char:EOLhyphen"/>tual Guide.</hi> (pag. 7.)</p>
+            <pb n="4" facs="tcp:34313:4"/>
+            <p>Now this, if you speak of any obligation of relying upon their Judgment, I was former<g ref="char:EOLhyphen"/>ly taught was down-right Popery, and Sla<g ref="char:EOLhyphen"/>very; for I had been told, that <hi>every Tub was to stand upon its own bottom,</hi> that the Scripture was the only Rule of my Faith, that I was to stand and fall by it; and therefore was to search diligently and soberly into it my self: And I was made to believe, that, if being <hi>a sober inquirer,</hi> I should chance to err in misinterpreting of it, <hi>God would not lay the guilt of it to my charge.</hi> Nay, more<g ref="char:EOLhyphen"/>over I have been lately taught by a Gentle<g ref="char:EOLhyphen"/>man, that tells me he gives a true <hi>Exposition of the Doctrine of the Church of</hi> England (pag. 79.) <hi>that we suppose the Scriptures to be so clearly written, that it can hardly happen; that in the necessary Articles of Faith, any one Man should be found opposite to the whole Church in his opinion: Yet if such an one were evidently convinced, that his belief was founded upon the undoubted Authority of Gods Holy Word, so far would it be from any Horror to support it,</hi> that he might justly <hi>glory in it.</hi> And this he looks upon to be so certainly the Doctrine of the Church of <hi>England,</hi> that he repeats and justifies it in his defence, pa. 80. 81. You may see his words at the beginning of this my Answer; where he plainly says, that <hi>tho it be highly useful for individual Persons or Churches to consult the Church, of which they are members, yet after all, if they be convinc'd there is a disagreement between the Voice of the Church and that of the Scripture, they must s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick to the later rather than the former, they must follow the Superior, not the Inferior Guide.</hi>
+            </p>
+            <pb n="5" facs="tcp:34313:4"/>
+            <p>Now Sir, what was all this, but to oblige me to search the Scriptures, and form the best Judgment of them I could; and being once fixed, not to regard the voice of my Ministers, no not of my own, nor of the universal Church.</p>
+            <p>But I perceive the Scene is changed; and I must now beg the direction of my Spiritual Guides. This advice Roman Catholics in<g ref="char:EOLhyphen"/>deed used to give me; and told me if our Great Grand-fathers had followed it, we should have had no Protestant Reformation.</p>
+            <p>But what, must I stand to the direction of the <hi>Ministerial Function?</hi> Can it secure me that the Reverend Divines of the Church of <hi>England</hi> have hit upon the right sense of Scripture, and I and all other Christians have not? Then indeed it would be <hi>a saving bar<g ref="char:EOLhyphen"/>gain</hi> for me to rely upon them. But I see they pretend not to such an Infallibility. And therefore Sir, I must needs tell you, that as when I make choice of a Physician or a Lawy<g ref="char:EOLhyphen"/>er, I love to choose the best. So, if I must make choice of a Director, I must and will make choice of him, that can give me secu<g ref="char:EOLhyphen"/>rity that he neither can nor will lead me a<g ref="char:EOLhyphen"/>stray; for I do not love to rely upon any thing that can deceive me.</p>
+            <p>
+               <hi>Thirdly,</hi> You advise me, <hi>as far as possible, to avoid Disputes about Religion.</hi> And so far I will follow your advice; for I hate conten<g ref="char:EOLhyphen"/>tions, heats and animosities, which are usual<g ref="char:EOLhyphen"/>ly the fruits of such debates.</p>
+            <p>But however I hope you will not oblige me not to enquire, with a calm and quiet mind, after that Truth which I must embrace
+<pb n="6" facs="tcp:34313:5"/> to obtain Salvation, and which you can give me no Infallible assurance of. Tho I have not Leisure or Ability, as you tell me, for dis<g ref="char:EOLhyphen"/>putes, yet I ought to use my utmost endea<g ref="char:EOLhyphen"/>vours, and take the most time I can to learn the Truth. Subtil disputants might, tis true, (as you say) bafle me with their Arguments, but such Sophistry will not convince my Judgment, and therefore if they can bring me no better reasons than you pretend, I shall not fear to be seduced.</p>
+            <p>
+               <hi>Fourthly,</hi> You bid me reply to those, who tell me of <hi>the security of the Roman Catholic Faith, that I understand very little the privi<g ref="char:EOLhyphen"/>leges of the Church of</hi> Rome, pag. 10. But am I not in a capacity to know them? and if she enjoy such Privileges, I think it is my in<g ref="char:EOLhyphen"/>terest to be one of her members, that I may also partake of them.</p>
+            <p>But you say I am <hi>a member of the Church of</hi> England, <hi>which is a true Catholic and Aposto<g ref="char:EOLhyphen"/>lic Church, and consequently to separate from this Church without some urging cause, is down<g ref="char:EOLhyphen"/>right Schism,</hi> (pag. 11.)</p>
+            <p>Sir, I love security; can you therefore Infallibly assure me she is what you tell me? This you dare not say. Why should I not then seek for a Church of which I can have such assurance?</p>
+            <p>But you say <hi>it is down-right Schism to se<g ref="char:EOLhyphen"/>parate without a cause from that Part of the Visible Church of which I am a member.</hi> Now poor Ignorant I thought, that if this part were separated from the whole, without a just cause, I ought rather to adhere to the whole, than to a part. And if a just cause
+<pb n="7" facs="tcp:34313:5"/> might be given for separating from the whole Church (which, by the by, if she be Infal<g ref="char:EOLhyphen"/>lible I think there cannot be) I am sure there may be one for separating from a part.</p>
+            <p>But you tell me, they who would <hi>ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k perti<g ref="char:EOLhyphen"/>nently,</hi> and perswade me to separate from the Church of <hi>England, must plainly prove, that the Church of</hi> England <hi>is no sound Member of the Catholic Church, and consequently that Salvation cannot ordinarily be had in the Church of</hi> England: <hi>At least not with such safety, certainty and advantage, as it may in the Church of</hi> Rome. And in order to this must shew, that <hi>her Doctrine is either defective or false.</hi> (pag. 12.)</p>
+            <p>This indeed I thought very reasonable. And because I have not leasure for long en<g ref="char:EOLhyphen"/>quiries, I thought the only way to be satisfied, was to search, whether Christ had left an In<g ref="char:EOLhyphen"/>fallible Church upon Earth, to guide and to direct his people in all ages, or no: If he did leave such a Church; then it follows, that That Church was to remain visible in all Ages, and secure from Error; but this could not be the Church of <hi>England,</hi> as now by Law Establish<g ref="char:EOLhyphen"/>ed: For I had often heard and read, that we separated from the whole Church not 200 years ago, and have been told from the Pulpit, and by the Book of Homilies, that the whole visible Church of Christ fell into Idolatry and persevered in it, for above 800 years. So, that it plainly appears, that by our Re<g ref="char:EOLhyphen"/>formation we separated from the visible Christian Church of that age, spread over the face of the whole World. If then the visible Christian Church spread over the face of the
+<pb n="8" facs="tcp:34313:6"/> whole World was secured from Error by the promise of Almighty God; they who pre<g ref="char:EOLhyphen"/>tended to Reform her Doctrins of Faith, or Universal Practices, or taught others contrary to them, must needs be guilty of the breach of Faith and Unity, without which there is no Salvation.</p>
+            <p>Upon this account, I was willing to speak with some Roman Catholics, and see what grounds they gave for their Infallibility; and because I durst not trust to my memory, I followed your fifth advice, to desire <hi>one or two Arguments in Writing.</hi> And in particular, I was willing to see an Answer to your Que<g ref="char:EOLhyphen"/>ries and objections in your Plain-man's Re<g ref="char:EOLhyphen"/>ply, which (because you oblige me to it) I here send you to have your Judgment of it.</p>
+         </div>
+         <div type="answer">
+            <head>The Missioner<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Answer to the Plain-man's Reply.</head>
+            <sp>
+               <speaker>Missioner.</speaker>
+               <p>HOnest Friend, seeing you tell me <hi>you love a saving bargain,</hi> and that you desire to know <hi>what benefit and advantage will come by your being a Roman Catholic.</hi> I tell you 'tis the greatest that can be, viz. <hi>The Salvation of your Soul,</hi> for where<g ref="char:EOLhyphen"/>as Error is destructive of Salvation, True Faith is the way to please God, and that Church can only with security teach true Faith, which is guided by the unerring Spirit of God, and therefore rendred Infallible.</p>
+            </sp>
+            <sp>
+               <speaker>Plain-man.</speaker>
+               <p>Is then the Church of <hi>Rome</hi> Infallible? If she be, I see a great benefit and
+<pb n="9" facs="tcp:34313:6"/> advantage to b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a member of her; <hi>for if she cannot Err, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ust then be acknowledged that she hath not Erred. And consequently, what<g ref="char:EOLhyphen"/>ever she has proposed as an Article of Faith, ought to be received as such. So that prove this and all's your own,</hi> (pag. 7.)</p>
+            </sp>
+            <sp>
+               <speaker>Missioner.</speaker>
+               <p>Yes, the Church of <hi>Rome</hi> is Infallible. And this I will undertake to prove by undeniable Arguments. And in order to this, I will take your method; and shew First, what we mean by the Church of <hi>Rome.</hi> Secondly, what we mean by Infallible. Thirdly, from whence the Church had this Infallibility. Fourthly, how we prove it. Fifthly, where we may find this Church. Sixthly and lastly, how we may know when she speaks to us, and what she Teaches.</p>
+               <p n="1">1. And, <hi>First,</hi> by the Church of <hi>Rome</hi> we do not mean the particular Diocess of <hi>Rome</hi> or any particular Church or Assembly, but the Catholic Church spread over the face of the whole World in Communion with the Bishop of <hi>Rome</hi> the Supream Pastor of the Church of Christ. Neither do we seclude any from being members of that Church, but such as have been condemned by the whole visible Catholic Church spread over the face of the World. And such persons or Heresies being once condemned, neither they nor their Successors can ever in after ages pretend to be members of that Catholic Church, or challenge a place or Vote in her Councils.</p>
+               <p>Thus the <hi>Arians,</hi> the <hi>Nestorians,</hi> the <hi>Euty<g ref="char:EOLhyphen"/>chians,</hi> &amp;c. being once Condemned by the voice of the Catholic Church, they who profess their Errors, can never in any succed<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:34313:7"/> age pretend to be Members of the Church Catholic, or to interpose their sentiments in her Assemblies. And the same may be said of all other Heresies, cut off by the remaining Orthodox Body of the Church.</p>
+               <p>
+                  <hi>Secondly,</hi> By the word Infallibility we do not mean only <hi>Indefectibility and Duration,</hi> (tho the Church must also last for ever, and be always visible) but an unerring direction in necessary points of Faith. So that when we say the Church is Infallible, we mean, that Almighty God has given an Authoritative Power to his Church to declare, in case of differences, what is the <hi>Faith which was once delivered to the Saints;</hi> Jud. 3. and in case of obstinacy, to Anathematize and Excommuni<g ref="char:EOLhyphen"/>cate Dissenting persons; that is, to seclude them from being Members of her Communi<g ref="char:EOLhyphen"/>on, and by consequence to deprive them of the benefits and blessings which were pro<g ref="char:EOLhyphen"/>mised to her and her Members. But this Authoritative Power would be to the de<g ref="char:EOLhyphen"/>struction of her Members, rather than their edification, unless the same God that gave this Power did secure her from Error in the necessary exercise of it.</p>
+               <p>So that in case of differences about the sense of Scripture, or any Divinely revealed Truths, the Church is to decide the difference, and end the Controversie; and to perform this, we say, she is assisted by the Spirit of Almighty God, who, as he has ordained her for our direction, so he secures her from er<g ref="char:EOLhyphen"/>ring, whilst she directs. Which Assistance we call Infallibility.</p>
+            </sp>
+            <sp>
+               <speaker>Plain-man.</speaker>
+               <p>These are great Privileges, but
+<pb n="11" facs="tcp:34313:7"/> tell me thirdly, from whence had she this Authority of unerring guidance?</p>
+            </sp>
+            <sp>
+               <speaker>Missioner.</speaker>
+               <p>You must not think that the Church has this Power from her self; for we know that all Men may fail, all Com<g ref="char:EOLhyphen"/>munities and Assemblies are subject to error and mistakes. But she has it from God him<g ref="char:EOLhyphen"/>self, <hi>who is faithful and true to his promises.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Plain-man.</speaker>
+               <p>Fourthly, How do you prove she is Infallible?</p>
+            </sp>
+            <sp>
+               <speaker>Mission.</speaker>
+               <p>From the plain Testimonies of Holy Scripture, both Old and New. In the Old Testament.</p>
+               <p n="1">1. We Read, that the Jewish Synagogue had a Supream Court of Judicature, to end difficult <hi>Controversies,</hi> from whence there was no Appeal, because God promised that the Judge there should <hi>shew them the sentence</hi> (or as other Translations have it better) <hi>the Truth of Judgment;</hi> and threatned death to those who should <hi>do presumptuously, and not hearken to the Priest or Judge.</hi> Deut. 17.8. &amp;c.</p>
+               <p>Nay, Christ himself Commanded the peo<g ref="char:EOLhyphen"/>ple even in his time, to <hi>do as they said who sate in</hi> Moses <hi>Chair,</hi> but <hi>not to do as they did.</hi> Matth. 23.3. So, that till the Spirit of God forsook the Synagogue, it was to be obeyed, and by consequence was secured from giving a false Sentence in necessaries to Salvation.</p>
+               <p>And can we think, that God would be<g ref="char:EOLhyphen"/>stow so great a privilege upon the Hand<g ref="char:EOLhyphen"/>maid, and leave the Mistress (to whom a <hi>Covenant with better promises</hi> had been given Heb. 8.6.) without it?</p>
+               <p>
+                  <hi>Secondly,</hi> The Prophecies that speak of the Church in the New Law (as the contents of
+<pb n="12" facs="tcp:34313:8"/> your own Bibles shew) besides that they tell us, that she shall be <hi>like a Mountain upon the top of Mountains,</hi> Isa. 2.2. Like <hi>a Taberna<g ref="char:EOLhyphen"/>cle seated in the Sun,</hi> Psal. 18.4. That <hi>all Nations shall flow unto her;</hi> That <hi>Kings should be her Nursing Fathers, and Queens her Nur<g ref="char:EOLhyphen"/>sing Mothers,</hi> Isa. 49.23. That <hi>all the ends of the Earth shall remember, and turn unto the Lord, and all the Kindred of the Nations shall Worship before him,</hi> Psal. 22.27.</p>
+               <p>I say, besides these plain Prophecies which shew her visibility, universality and durance, we have others which tell us, that <hi>in this House of the God of</hi> Jacob, <hi>he</hi> himself <hi>will teach us his ways;</hi> and <hi>will Judge amongst the Na<g ref="char:EOLhyphen"/>tions,</hi> Isa. 2.3, 4. And then certainly we shall neither be taught an Error, nor have a wrong sentence.</p>
+               <p>They tell us moreover, that there shall be in those days <hi>a way of Holiness, that the way<g ref="char:EOLhyphen"/>faring Men, tho fools, shall not Err therein,</hi> Isa. 35.8. That God <hi>will not be wroth with his Church, neither shall his kindness depart from her, nor the Covenant of his peace be re<g ref="char:EOLhyphen"/>moved.</hi> That <hi>all her Children shall be taught of the Lord</hi> (and then certainly no Errors.) that <hi>she shall be established in righteousne<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>▪ That whosoever shall gather together against her, shall fall for her sake.</hi> And, that <hi>every tongue that shall rise against her in Judgment shall be con<g ref="char:EOLhyphen"/>demned by her. This is the Heritage of the Servants of the Lord, and their righteousness is of me, saith the Lord,</hi> Isa. 54.</p>
+               <p>Furthermore they tell us, that God has made a Covenant with his Church. That <hi>his Spirit shall be upon her, and his words which he
+<pb n="13" facs="tcp:34313:8"/> hath put into her mouth, shall not depart out of her mouth, nor out of the mouth of her seed, nor out of the mouth of her seeds seed, saith the Lord, from henceforth and forever,</hi> Isa. 59.20, 21. You see here a promise to the Church in all Ages, that she shall speak the very words which God shall put into her mouth, and therefore no Errors.</p>
+               <p>Read also the sixtieth Chapter of <hi>Isaiah,</hi> and consider whether it be answerable to the Goodness and Wisdom of Almighty God to give such Authority to his Church, as that <hi>all Nations that will not serve her shall perish;</hi> such privileges as <hi>to suck the breasts of Kings;</hi> such promises, as that her <hi>Sun shall no more go down, nor her Moon with-draw it self; but that the Lord shall be to her an everlasting light;</hi> and yet, not to secure her from teaching false and Erroneous Doctrine, and falling into Ido<g ref="char:EOLhyphen"/>latry, the most abhorred of all vices, and per<g ref="char:EOLhyphen"/>sisting in it for above 800 years, as your Book of Homelies accuseth the whole Church of God to have done, <hi>Hom.</hi> 3. against the Peril of Idolatry in 40. <hi>pag.</hi> 121.</p>
+               <p>In the New Testament, first Christ promises, that he will <hi>build his Church upon a Rock, and that the Gates of Hell</hi> (which the Fathers in<g ref="char:EOLhyphen"/>terpret Error and Heresy) <hi>shall not prevail against it,</hi> Matth. 16.18. That he <hi>will be with her Pastors and Teachers always even to the end of the World, Amen.</hi> Matth. 28.20. That he will <hi>send them another Comforter, even the Spirit of Truth, to abide with them for ever,</hi> John 14.16. <hi>To teach them all things, and to bring all that he has taught them to their remem<g ref="char:EOLhyphen"/>brance,</hi> ver. 26. And that <hi>when he is come, he shall guide them in all Truth,</hi> Ch. 16. v. 13.</p>
+               <p n="2">
+                  <pb n="14" facs="tcp:34313:9"/>2. Moreover he has laid an Injunction upon all persons <hi>to hear his Church</hi> under the severe sentence of being looked upon <hi>as a Heathen or a Publican,</hi> Matth. 18.17. And this even in <hi>Trespasses,</hi> much more in Doctrins of Faith, where the Trespass is against all the Chil<g ref="char:EOLhyphen"/>dren of the Church.</p>
+               <p n="3">3. He told his Disciples, and in them their Successors, that they <hi>who heard them, heard him</hi> (Luke 10.16.) He Commanded them to <hi>teach all Nations, and told them, that they who believed and were Baptized should be saved, but they who believed not should be damned,</hi> as your Bibles have it, <hi>Matth.</hi> 28.19. com<g ref="char:EOLhyphen"/>pared with <hi>Mark</hi> 16.15, 16.</p>
+               <p n="4">4. These Apostles themselves tell us, that <hi>the Church of the living God is the Pillar and Ground of Truth,</hi> 1 Tim. 3.15. We may then securely rely upon her. And they assure us, that <hi>Christ gave some Apostles, some Pro<g ref="char:EOLhyphen"/>phets, some Evangelists, and some Pastors and Teachers; for the perfecting of the Saints— that henceforth we be no more Children tossed to and fro, and carried about with every wind of Doctrine—but speaking the Truth in love, may grow up in him in all things, who is the head, even Christ,</hi> Eph. 4.</p>
+               <p>Are not these plain Texts of Scripture, and do not you see clearly an Infallible assistance promised to the Directing and Teaching Church, that the learning part (such as you are) may not be <hi>carried about with every wind of Doctrine by the slight of Men, and cunning craftiness whereby they lie in wait to deceive?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Plain-man.</speaker>
+               <p>I must confess these are great Privileges, but I have been told these belong to the Universal Church, composed of all
+<pb n="15" facs="tcp:34313:9"/> Christians; so that if you can shew me.</p>
+               <p n="5">5. That these promises were made to the Roman Church, or that she is the only true Church of Christ, I shall most willingly hear you.</p>
+            </sp>
+            <sp>
+               <speaker>Missioner.</speaker>
+               <p>This may be easily made clear to you, if you do but remember what I told you we mean by the Roman Chatholic Church, and call to mind what has been said of the Church, her perpetual visibility, large extent or uni<g ref="char:EOLhyphen"/>versality, continual Succession and the like, to all which no other Church but that in Com<g ref="char:EOLhyphen"/>munion with the Roman, can pretend. For Protestants cannot so much as in one Age shew us any Visible Body of Pastors and Teachers dissenting from the Roman Catholic Church, which they unjustly call Idolatrous, no not one whole Parish in any part of the World till <hi>Luthers</hi> time, that accused her of such Erroneous and Diabolical Doctrins as they now do, but what was Condemned for maintaining other destructive Errors, as <hi>Wickliff, Huss, Jerom</hi> of <hi>Prague,</hi> &amp;c.</p>
+               <p>Again, that Church to whom these privi<g ref="char:EOLhyphen"/>leges were granted, cannot be ignorant that she has them, and will no doubt of it stand up for her Prerogative: But no Congreg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion or Assembly of the new Reformed, stand up for these Privileges: But those in Communion with the Roman Church dare challenge them.</p>
+               <p>But suppose they should have this privilege of being Infallible and know it not; it will then follow, that when they tell us they are fallible, they tell us an Infallible Truth; and thereupon we may be Infallibly assured, that they are Fallible. So that from hence it fol<g ref="char:EOLhyphen"/>lows,
+<pb n="16" facs="tcp:34313:10"/> that whilst Protestants declare to you they are fallible, they can no ways pretend to be the Infallible Church of Christ.</p>
+               <p>Your Minister may perhaps tell you this is Sophistry, but if he do, bid him shew you one holy Catholic and Apostolic Church of Christ distinct from that in Communion with the Roman, which had Kings for Nursing Fathers, and Queens for Nursing Mothers, and all those other forementioned marks and prero<g ref="char:EOLhyphen"/>gatives, and which condemned the Roman Church as Erroneous, Idolatrous or the like.</p>
+            </sp>
+            <sp>
+               <speaker>6. <hi>Plain-man.</hi>
+               </speaker>
+               <p>You say then you have an Infallible Guide in your Church. <hi>Tell me therefore distinctly who is this Infallible Guide? Where may I find him, and I do faithfully pro<g ref="char:EOLhyphen"/>mise to resign my self to his conduct,</hi> pag, 19.22.</p>
+            </sp>
+            <sp>
+               <speaker>Missioner.</speaker>
+               <p>Mistake me not I pray. I tell you distinctly, that the Church is my Infallible Guide; and this Church is to be found spread over the face of the whole World. I may therefore securely rely upon what she teach<g ref="char:EOLhyphen"/>es, without troubling my self to search whe<g ref="char:EOLhyphen"/>ther this or that particular person in her be Infallible or no.</p>
+            </sp>
+            <sp>
+               <speaker>Plain-man.</speaker>
+               <p>But how shall I know what this Church Teaches?</p>
+            </sp>
+            <sp>
+               <speaker>Missioner.</speaker>
+               <p>You may be sully convinced of this by self-evidence, as to all points of Faith; that is, it is so plain and easie to be known, that if you will but open your Eyes and Ears, you may be fully convinced, that she Teaches (for example) Transubstantiation.</p>
+               <p>If you hearken to the voice of her Pastors and Teachers in every Parish, they unani<g ref="char:EOLhyphen"/>mously tell you that she teaches it; If you
+<pb n="17" facs="tcp:34313:10"/> consider the consent and Harmony amongst all her Children, you must be convinced of it; If you read her approved Catechisms, you find it there; If you hear her Sermons and Discourses, they explicate it to you; If you regard her Ceremonies and Practices, they shew it to be her Faith. Nay, if you do but ask her very Enemies, they will unani<g ref="char:EOLhyphen"/>mously tell you, that she teaches Transub<g ref="char:EOLhyphen"/>stantion. And what I say of Transubstanti<g ref="char:EOLhyphen"/>ation, I say of all our other Articles. So that you see plainly what she teaches, and need no farther proof for that than your own evi<g ref="char:EOLhyphen"/>dence; your only difficulty therefore is, whether what she teaches be Infallibly true, and that I have already proved to you. To use then your own example. If I can be as<g ref="char:EOLhyphen"/>sured, that if I go to such a Town, they can and will Infallibly tell me which is my way to <hi>Jerusalem,</hi> and coming to this Town I find all persons in the same mind telling me <hi>this is the way, this is the way;</hi> I may assure my self; that it is the way; because I am convinced otherwise, that the people of that Town both can and will direct me Infallibly. But if not<g ref="char:EOLhyphen"/>withstanding such Infallible direction, I will not ask my way, but guide my self by my <hi>Chart</hi> or <hi>Map;</hi> the fault will be justly impu<g ref="char:EOLhyphen"/>ted to my obstinacy and self-conceit, if I miss the way.</p>
+            </sp>
+            <sp>
+               <speaker>Plain-man.</speaker>
+               <p>Where there is such an Infal<g ref="char:EOLhyphen"/>lible assurance and an unanimous consent, as is the voice and practice of the whole Church I must confess the case is clear. But when there happens to be a difference, and some tell me one thing and some another, how
+<pb n="18" facs="tcp:34313:11"/> shall I know what the Church Teaches me, and by what means may I come to know her Infallible Doctrine?</p>
+            </sp>
+            <sp>
+               <speaker>Missioner.</speaker>
+               <p>In those cases she speaks to us by her Supream Court of Judicature, her Ge<g ref="char:EOLhyphen"/>neral Councils; which being the Legal Re<g ref="char:EOLhyphen"/>presentative of her whole Body, she is secu<g ref="char:EOLhyphen"/>red from Erring in them, as to all things which appertain to Faith.</p>
+            </sp>
+            <sp>
+               <speaker>'Plain-man.</speaker>
+               <p>
+                  <q>But Sir, I am told, that the Divines of the Church of <hi>England</hi> have prov<g ref="char:EOLhyphen"/>ed to you clearly beyond possibility of a Re<g ref="char:EOLhyphen"/>ply, <hi>First,</hi> That General Councils confirm<g ref="char:EOLhyphen"/>ed by the Pope, have actually erred. <hi>Secondly,</hi> That they have made Definitions and Decrees plainly contradictory to one another. And <hi>Thirdly,</hi> That one General Council Confirm<g ref="char:EOLhyphen"/>ed by one Pope, has been Condemned by a General Council Confirmed by another Pope. And therefore I hope you will acknowledg, unless contradictions can be true, that the Church does not speak Infallibly in her General Councils. <hi>pag.</hi> 30.</q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Missioner.</speaker>
+               <p>They who tell you this, deceive you, and they could never yet be able to prove, either that General Councils ever erred, or contradicted one another in maters of Faith; or that, one approved General Council Condemned another approved Ge<g ref="char:EOLhyphen"/>neral Council, or any of her received Canons or Definitions in matters of Faith.</p>
+               <p>I say in matters of Faith, for we do not deny, but that a General Council may be deceived in matters of Fact, and Err in her Decrees concerning them.</p>
+            </sp>
+            <sp>
+               <speaker>Plain-man.</speaker>
+               <p>But Sir, there is not any Ge<g ref="char:EOLhyphen"/>neral
+<pb n="19" facs="tcp:34313:11"/> Council actually now sitting, to end our Controversies, or to tell me the Infal<g ref="char:EOLhyphen"/>lible Doctrine of your Church.</p>
+            </sp>
+            <sp>
+               <speaker>Missioner.</speaker>
+               <p>Neither need there any, she ha<g ref="char:EOLhyphen"/>ving so fully expressed her self in the Canons and Definitions of her preceding Councils, and in particular in that of <hi>Trent.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Plain-man.</speaker>
+               <p>But Sir, Those are mere wri<g ref="char:EOLhyphen"/>tings, and I <hi>have been often told by you, that a mere writing can be no Judge, tho indeed it may be a Rule.</hi>
+               </p>
+               <p>
+                  <hi>And therefore for my better satisfaction pray resolve me these Queries.</hi>
+               </p>
+               <p n="1">1. <hi>Suppose a Controversie should arise about the Canons of any Council, how and in what sense they are to be understood, can such Canons determin themselves, and explain their own meaning? If so, then</hi>
+               </p>
+               <p n="2">2. <hi>Why may not the same privilege be gran<g ref="char:EOLhyphen"/>ted to the Holy Scriptures?</hi>
+               </p>
+               <p n="3">3. <hi>Whether cannot the Spirit of God, by which the Scriptures were indicted, express his mind as plainly and intelligibly, as the Fathers of any Council? pag.</hi> 34.</p>
+            </sp>
+            <sp>
+               <speaker>Missioner.</speaker>
+               <p>I confess these are but mere writings, and that mere writings cannot, in case of a Controversie arising about their sense, determin themselves, and explain their own meaning (tho they may be clear in other points:) So, that in such a case, whether the Controversie be about the sense of Scripture, or about the Canon of a Council, there must be a living Judge to determin it, and this I say, is the Church in her General Councils, in which she is secured from Error.</p>
+               <p>But pray take notice, that we have no such
+<pb n="20" facs="tcp:34313:12"/> Controversie at present: All persons are a<g ref="char:EOLhyphen"/>greed as to what this Church has defined, and the sense of her Canons is not Contro<g ref="char:EOLhyphen"/>verted. We see it in her Practice, we read it in her Catechisms, we hear it from her Pastors, her Enemies also (when they have not a mind to misrepresent) tell us what she holds; so, that we are no less secure as to that Point, than we are certain that there is such a Church; and I may as well say, I question whether there be such a Church as the Roman Catholic Church; as say, I question whether she teach me such and such Doctrins or no: Both these are alike evident to all Mankind. All our difficulty then is whether what she has defined be true. And I have sufficiently proved to you, that she is secured from Error by the assistance of Al<g ref="char:EOLhyphen"/>mighty God, in those her definitions, and this by undeniable Texts of Scripture.</p>
+               <p>Thus I have resolved all your Questions, and shewed you that by Infallibility, we mean an unerring Authority to guide and direct us.</p>
+               <p>That it is the Gift of Almighty God.</p>
+               <p>That it is to be found only in the Catholic Church in Communion with the Bishop of <hi>Rome.</hi>
+               </p>
+               <p>It is this Catholic Church (I say) that has decided all the Controversies that ever yet arose, and must decide those that shall arise hereafter.</p>
+               <p>It is she alone has power, in case of differ<g ref="char:EOLhyphen"/>ences arising about the sense of Scripture, or her own Canons, to explain their meaning.</p>
+               <p>And it is she that has in all ages exercised
+<pb n="21" facs="tcp:34313:12"/> this Power and composed differences.</p>
+               <p>You may then securely rely upon this un<g ref="char:EOLhyphen"/>erring Guide; the way she shews you is so plain, so easie, that <hi>a way-faring Man, tho a fool, shall not Err therein.</hi> Seek not there<g ref="char:EOLhyphen"/>fore by-paths; nor let those persons, who tell you that neither they nor their Church is Infallible, but only that they hope they have hit upon the right sense of Scripture, they hope they are in the right, but are not Infal<g ref="char:EOLhyphen"/>libly certain; let them not I say seduce you into Error: Nor make you wander in such uncertain paths to your own destruction.</p>
+               <p>If you desire further satisfaction, read the Question of Questions, or propose your dif<g ref="char:EOLhyphen"/>ficulties to some of us, who will be ready to give you full satisfaction.</p>
+            </sp>
+            <div type="answer">
+               <head>Plain-man, To his Country Parson.</head>
+               <p>Now Sir, These Arguments of the Ca<g ref="char:EOLhyphen"/>tholic Missioner's seem to me very convincing, and therefore I desire your Answer to them.</p>
+               <p>But Sir, You know such as we <hi>have not leisure for long disputes,</hi> nor to run over all the Particular Points of Controversie, so, that I must desire you <hi>to make short work on't.</hi> And either shew me by more plain and Posi<g ref="char:EOLhyphen"/>tive Texts of Scripture, than what the Mis<g ref="char:EOLhyphen"/>sioner has here brought, that God Almighty has not promised to preserve his Church from Essential Errors, such as are Idolatry, Superstition, &amp;c. Or else shew me a Church visible in all ages spread over the face of the whole World, secured from such Errors and at unity in it self: A Church that has had all along, <hi>Kings for Nursing Fathers and
+<pb n="22" facs="tcp:34313:13"/> Queens for Nursing Mothers,</hi> a Church to which <hi>all Nations have flowed,</hi> and which is authorized to teach them Infallibly all those Truths which were delivered t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Saints with<g ref="char:EOLhyphen"/>out mixtures of Error, which destroy Sanctity, I say either shew me from plain Texts of Scripture, that Christs Church was not to be my Infallible Guide; or shew me such a Church of Christ as these promises require, distinct from that of the Roman, and from which she has either separated or been cut off.</p>
+               <p>But if you can do neither of these, <hi>I must suspect you for a cheat,</hi> and that you publish these Pamphlets <hi>to impose upon me.</hi>
+               </p>
+               <p>I am resolved therefore <hi>not to lose my Soul for a Trick, but to be as careful of it as of my Estate:</hi> And, tho you use many Arguments to disswade me, yet I must again tell you plainly, that <hi>I love security,</hi> and I must, un<g ref="char:EOLhyphen"/>less I will run the riske of my Salvation, seek after the <hi>good old way,</hi> the way in <hi>which the way-faring Men, tho fools, shall not Err,</hi> Isaiah 35.8.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34313:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
